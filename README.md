@@ -1,5 +1,5 @@
 # io-oi.me
-
+[![Deploy Hugo site to Pages](https://github.com/shironono/shironono.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/shironono/shironono.github.io/actions/workflows/hugo.yml)
 [![Built on GitHub](https://github.com/reuixiy/io-oi.me/workflows/build/badge.svg)](https://github.com/reuixiy/io-oi.me/actions)
 [![Generator is Hugo](https://img.shields.io/badge/Generator-Hugo-ff4088?&logo=hugo)](https://github.com/gohugoio/hugo)
 [![Theme is MemE](https://img.shields.io/badge/Theme-MemE-2a6df4)](https://github.com/reuixiy/hugo-theme-meme)
