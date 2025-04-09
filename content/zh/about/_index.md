@@ -15,7 +15,7 @@ Sweep the streets I used to own</em></p>
 
 ---
 
-您好！欢迎来到 reuixiy 的生活与技术博客！怎么记住 reuixiy 呢？其实就是「一休儿」的拼音，只不过顺序是..从右往左..🙃… 为什么我要搭建这个博客呢？因为本人喜欢发呆，喜欢胡思乱想，并且发现用文字记录时能够更深入发呆，所以之前用笔记本写了一些东东。但是，我慢慢地发现了笔记本书写的局限性：
+您好！欢迎来到 Shironono 的生活与技术博客！怎么记住 Shironono 呢？… 为什么我要搭建这个博客呢？因为本人喜欢发呆，喜欢胡思乱想，并且发现用文字记录时能够更深入发呆，所以之前用笔记本写了一些东东。但是，我慢慢地发现了笔记本书写的局限性：
 
 1. 美观问题，我的字写得~~不太好看~~（难看）
 2. 排版问题，看起来乱糟糟，阅读困难
@@ -27,12 +27,12 @@ Sweep the streets I used to own</em></p>
 2. 分类方式，最基本的就是 [category 和 tag](/tech/categories+tags/)
 3. 页面布局，欣赏的人自然懂
 
-最重要的是自己这个小白可以折腾得起，并且适合我这个极简主义者 + 完美主义者。开始搭建时，就希望治疗我这个懒癌晚期患者，给我继续书写的动力，结果嘛，还是有点点用的。最后，如果你也..爱智慧..，可以去我的[另一个博客](https://yixiuer.me/)逛一逛，看你能不能找到本博客的首页诗句的出处😃…
+最重要的是自己这个小白可以折腾得起，并且适合我这个极简主义者 + 完美主义者。开始搭建时，就希望治疗我这个懒癌晚期患者，给我继续书写的动力，结果嘛，还是有点点用的。最后，如果你也..爱智慧..，可以去[这个博客](https://evans-blog.netlify.app/)逛一逛😃…
 
 ---
 
 此外，本博客是一个 [PWA](https://developers.google.com/web/progressive-web-apps/) 站点，你可以通过浏览器添加本博客到你的手机主屏或电脑桌面，随时随地查看本博客。如果你想订阅本博客，推荐 <a href="/atom.xml" target="_blank" rel="noopener">Atom</a>╱<a href="/rss.xml" target="_blank" rel="noopener">RSS</a>。当然，你也可以经常访问本博客，以及时获取到最新文章。
 
-如果你在浏览博客的过程中发现了任何问题（如错别字），欢迎前往 GitHub 提交 [Issue](https://github.com/reuixiy/io-oi.me/issues) 或直接修改相关文件后提交 PR。如果你有事想要联系 reuixiy，可以通过邮件，邮箱地址：[reuixiy@gmail.com](mailto:reuixiy@gmail.com)。
+如果你在浏览博客的过程中发现了任何问题（如错别字），欢迎前往 GitHub 提交 [Issue](https://github.com/shironono/shironono.github.io/issues) 或直接修改相关文件后提交 PR。如果你有事想要联系 Shironono，可以通过邮件，邮箱地址：[shironono@gmail.com](mailto:shironono@gmail.com)。
 
-另，博客使用 [Notion](https://reuixiy.notion.site/bfba6436c19f4172ae88b0c509f55452) 持续写作，博客自豪地由 [Hugo](https://gohugo.io/) 驱动，主题 [MemE](https://github.com/reuixiy/hugo-theme-meme)，源码 [GitHub](https://github.com/reuixiy/io-oi.me)，目前通过 [GitHub Actions](https://github.com/reuixiy/io-oi.me/actions) 进行持续构建、持续部署，曾经部署在星际文件系统 [IPFS](https://ipfs.io/)。
+另，博客使用 [Notion](https://reuixiy.notion.site/bfba6436c19f4172ae88b0c509f55452) 持续写作，博客自豪地由 [Hugo](https://gohugo.io/) 驱动，主题 [MemE](https://github.com/reuixiy/hugo-theme-meme)，源码 [GitHub](https://github.com/shironono/shironono.github.io)，目前通过 [GitHub Actions](https://github.com/shironono/shironono.github.io/actions) 进行持续构建、持续部署，曾经部署在星际文件系统 [IPFS](https://ipfs.io/)。
