@@ -1399,7 +1399,7 @@ uglyURLs = false
     # 多語言
 
     # 是否開啟多語言按鈕
-    enableLangToggle = true
+    enableLangToggle = false
 
     # 是否在首頁隱藏多語言按鈕
     hideLangToggleInHome = false
